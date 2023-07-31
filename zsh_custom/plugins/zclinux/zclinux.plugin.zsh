@@ -11,3 +11,5 @@ alias ezc="nv ~/.zshrc"
 alias szc="source ~/.zshrc"
 alias czc="cd $HOME/dotfiles"
 
+alias cnc="cd $HOME/.config/nvim/lua"
+

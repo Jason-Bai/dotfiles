@@ -20,3 +20,7 @@ eval "$(jenv init -)"
 export PNPM_HOME="/Users/baiyu/Library/pnpm"
 export PATH="$PNPM_HOME:$PATH"
 # pnpm end
+#
+
+# ncurses
+export PATH="/usr/local/opt/ncurses/bin:$PATH"
